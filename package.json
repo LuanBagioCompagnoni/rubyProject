@@ -1,0 +1,7 @@
+{
+  "name": "rubyProject",
+  "private": true,
+  "dependencies": {
+    "bundle": "^2.1.0"
+  }
+}
